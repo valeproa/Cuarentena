@@ -1,0 +1,17 @@
+commit a57ccf55686ebfc9d54340bf5a2f720d66e38536
+Author: vale <vale.franconee@gmail.com>
+Date:   Fri Mar 20 13:34:57 2020 -0300
+
+    cambie el color del titulo y borre lo que escribi antes
+
+commit 7525856baa25b569f8ca1b7d0ed93e4a524c70b4
+Author: vale <vale.franconee@gmail.com>
+Date:   Fri Mar 20 13:18:53 2020 -0300
+
+    Agregue otra cosa que hice en las vacaciones
+
+commit 831060e96ef48f5205bce026045fd473c3d88135
+Author: vale <vale.franconee@gmail.com>
+Date:   Fri Mar 20 13:11:49 2020 -0300
+
+    iniciamos
